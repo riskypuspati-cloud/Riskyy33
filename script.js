@@ -25,13 +25,13 @@ const dataJadwalXI9 = [
     { hari: "SELASA", tanggal: "14 OKTOBER 2025", waktu: "09:15 - 10:45", matkul: "Seni Budaya", isBreak: false },
     
     // --- RABU, 15 OKTOBER 2025 ---
-    { hari: "RABU 1", tanggal: "15 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "Mat Lanjut", isBreak: false },
-    { hari: "RABU 2", tanggal: "15 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
-    { hari: "RABU 2", tanggal: "15 OKTOBER 2025", waktu: "09:15 - 10:45", matkul: "B. Jawa", isBreak: false }, 
+    { hari: "RABU", tanggal: "15 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "Mat Lanjut", isBreak: false },
+    { hari: "RABU", tanggal: "15 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
+    { hari: "RABU", tanggal: "15 OKTOBER 2025", waktu: "09:15 - 10:45", matkul: "B. Jawa", isBreak: false }, 
     
     // --- KAMIS, 16 OKTOBER 2025 ---
-    { hari: "KAMIS 2", tanggal: "16 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "Ekonomi Lanjut", isBreak: false }, 
-    { hari: "KAMIS 2", tanggal: "16 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
+    { hari: "KAMIS", tanggal: "16 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "Ekonomi Lanjut", isBreak: false }, 
+    { hari: "KAMIS", tanggal: "16 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
     // Tidak ada sesi 09:15-10:45 di tabel asli XI-9 untuk hari Kamis ini.
 ];
 
