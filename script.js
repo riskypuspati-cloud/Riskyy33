@@ -1,18 +1,18 @@
 const dataJadwalXI9 = [
-    // --- RABU, 9 OKTOBER 2025 ---
-    { hari: "RABU", tanggal: "9 OKTOBER 2025", waktu: "07:30 - 09:00", matkul: "Pend. Agama", isBreak: false },
-    { hari: "RABU", tanggal: "9 OKTOBER 2025", waktu: "09:00 - 09:45", matkul: "ISTIRAHAT", isBreak: true },
-    { hari: "RABU", tanggal: "9 OKTOBER 2025", waktu: "09:45 - 11:15", matkul: "B. Inggris", isBreak: false },
+    // --- RABU, 8 OKTOBER 2025 ---
+    { hari: "RABU", tanggal: "8 OKTOBER 2025", waktu: "07:30 - 09:00", matkul: "Pend. Agama", isBreak: false },
+    { hari: "RABU", tanggal: "8 OKTOBER 2025", waktu: "09:00 - 09:45", matkul: "ISTIRAHAT", isBreak: true },
+    { hari: "RABU", tanggal: "8 OKTOBER 2025", waktu: "09:45 - 11:15", matkul: "B. Inggris", isBreak: false },
     
-    // --- KAMIS, 10 OKTOBER 2025 ---
-    { hari: "KAMIS", tanggal: "10 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "B. Indonesia", isBreak: false },
-    { hari: "KAMIS", tanggal: "10 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
-    { hari: "KAMIS", tanggal: "10 OKTOBER 2025", waktu: "09:15 - 10:45", matkul: "Sejarah", isBreak: false },
+    // --- KAMIS, 9 OKTOBER 2025 ---
+    { hari: "KAMIS", tanggal: "9 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "B. Indonesia", isBreak: false },
+    { hari: "KAMIS", tanggal: "9 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
+    { hari: "KAMIS", tanggal: "9 OKTOBER 2025", waktu: "09:15 - 10:45", matkul: "Sejarah", isBreak: false },
     
-    // --- JUMAT, 11 OKTOBER 2025 ---
-    { hari: "JUMAT", tanggal: "11 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "Matematika", isBreak: false },
-    { hari: "JUMAT", tanggal: "11 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
-    { hari: "JUMAT", tanggal: "11 OKTOBER 2025", waktu: "09:15 - 10:45", matkul: "Pend. Pancasila", isBreak: false },
+    // --- JUMAT, 10 OKTOBER 2025 ---
+    { hari: "JUMAT", tanggal: "10 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "Matematika", isBreak: false },
+    { hari: "JUMAT", tanggal: "10 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
+    { hari: "JUMAT", tanggal: "10 OKTOBER 2025", waktu: "09:15 - 10:45", matkul: "Pend. Pancasila", isBreak: false },
     
     // --- SENIN, 13 OKTOBER 2025 ---
     { hari: "SENIN", tanggal: "13 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "Informatika", isBreak: false },
