@@ -9,10 +9,10 @@ const dataJadwalXI9 = [
     { hari: "KAMIS", tanggal: "10 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
     { hari: "KAMIS", tanggal: "10 OKTOBER 2025", waktu: "09:15 - 10:45", matkul: "Sejarah", isBreak: false },
     
-    // --- JUMAT, 10 OKTOBER 2025 ---
-    { hari: "JUMAT", tanggal: "10 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "Matematika", isBreak: false },
-    { hari: "JUMAT", tanggal: "10 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
-    { hari: "JUMAT", tanggal: "10 OKTOBER 2025", waktu: "09:15 - 10:45", matkul: "Pend. Pancasila", isBreak: false },
+    // --- JUMAT, 11 OKTOBER 2025 ---
+    { hari: "JUMAT", tanggal: "11 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "Matematika", isBreak: false },
+    { hari: "JUMAT", tanggal: "11 OKTOBER 2025", waktu: "08:30 - 09:15", matkul: "ISTIRAHAT", isBreak: true },
+    { hari: "JUMAT", tanggal: "11 OKTOBER 2025", waktu: "09:15 - 10:45", matkul: "Pend. Pancasila", isBreak: false },
     
     // --- SENIN, 13 OKTOBER 2025 ---
     { hari: "SENIN", tanggal: "13 OKTOBER 2025", waktu: "07:00 - 08:30", matkul: "Informatika", isBreak: false },
