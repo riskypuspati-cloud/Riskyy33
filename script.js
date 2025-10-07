@@ -1,5 +1,3 @@
-// --- script.js ---
-
 const dataJadwalXI9 = [
     // RABU, 9 OKTOBER 2025
     { hari: "RABU", tanggal: "9 OKTOBER 2025", waktu: "07:30 - 09:00", matkul: "Pend. Agama", isBreak: false },
